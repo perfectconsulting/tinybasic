@@ -1,3 +1,4 @@
-# tinybasic
+tinybasic
+========
 
-test
+a c implementaton of the tiny basic interpreter
