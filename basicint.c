@@ -1,6 +1,6 @@
 
 /* A tiny BASIC interpreter */
-/* (c) Steven James */
+/* Steven James */
 
 #include "stdio.h"
 #include "setjmp.h"
